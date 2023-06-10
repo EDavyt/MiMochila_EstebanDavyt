@@ -1,0 +1,7 @@
+Escribi todo y se perdio :c
+
+2) Es una maquina virtual de tipo 2 lo que permite utilizar los componentes de la Base Machine
+1) Porque algunos lenguajes estan dise;ados para funcioanr solo sobre cierta arquitectura de harware y los sistemas
+operativos estan pensados para uncioanr sobe esa arquitectura por lo tanto algunos lenguajes no son compatibles con 
+todos los sistemas operativos.
+3) No, ya que las maqinas virtuales estan aisladas entre si, el da;o en una no afecta al otro
