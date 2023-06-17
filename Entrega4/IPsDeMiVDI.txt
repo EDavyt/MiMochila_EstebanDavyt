@@ -1,0 +1,6 @@
+Ip V4: 192.168.64.4
+MAC:   fdff:4bc1:e2dc:e58b:2063:f1ff:fe5f:d75c 
+
+Es diferente la Ip Publica y priivada de la VM que de la Base machine?
+
+Ip de la Base: 190.134.6.111
